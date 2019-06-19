@@ -4,7 +4,7 @@
 #### Required Software and Tools
 
 
-Suppose you already have numpy, scipy, pandas pip or conda installed
+Suppose you already have numpy, scipy, pandas, scikit-learn, seabron pip or conda installed
 
 FSL                https://fsl.fmrib.ox.ac.uk/fsl/fslwiki
 
@@ -14,7 +14,3 @@ spinalcord toolbox https://github.com/neuropoly/spinalcordtoolbox
 
 
 
-
-scikit-learn
-
-seaborn
