@@ -1,4 +1,5 @@
-### Pipelines for Processing Brain and Spinal Cord MRI data 
+# Pipelines for Processing Brain and Spinal Cord MRI data 
+There are two pipeline samples, the first one is for spinal cord total area measurement
 
 
 #### Required Software and Tools
