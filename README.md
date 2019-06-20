@@ -1,5 +1,13 @@
 ## Pipelines for Processing Brain and Spinal Cord MRI data 
-There are two pipeline samples, the first one is for spinal cord total area measurement
+There are two pipeline samples here 
+    
+    The first one is to get matric values from specific region of interests in spinal cord C2-C3 sections from multimodal 
+    images as  features for later on statistical analysis. It involves registraion, transformation, crop and upsampling 
+    images and use deep learning technique to get total cord mask to get ROI values. Check out pipeline script and 
+    output:  C23_pipeline, C23_output
+
+
+for spinal cord total area measurement
 
 
 #### Required Software and Tools
