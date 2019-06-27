@@ -8,6 +8,8 @@
     
     The second one is spinal cord total area measurement across medulla oblongata to C1 section. Check out 
     *****OPERA_pipeline.py, OPERA_output.png*****
+![GitHub Logo](C23_output.png)
+Format: ![Alt Text](url)
 
 
 #### Required Software and Tools
