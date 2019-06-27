@@ -11,9 +11,7 @@
 ![C23_output](C23_output.png)
 
 
-<video width="320" height="240" controls>
-  <source src="whole_brain_track.mp4" type="video/mp4">
-</video>
+<video src="whole_brain_track.mp4" width="320" height="200" controls preload></video>
 
 
 #### Required Software and Tools
