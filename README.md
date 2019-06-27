@@ -10,7 +10,7 @@
     *****OPERA_pipeline.py, OPERA_output.png*****
 ![C23_output](C23_output.png)
 
-![track](whole_brain_track.mp4)
+![](whole_brain_track.mp4)
 
 #### Required Software and Tools
 
