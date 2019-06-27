@@ -10,7 +10,9 @@
     *****OPERA_pipeline.py, OPERA_output.png*****
 ![C23_output](C23_output.png)
 
-![](whole_brain_track.mp4)
+<video width="320" height="240" controls>
+  <source src="whole_brain_track.mp4" type="video/mp4">
+</video>
 
 #### Required Software and Tools
 
