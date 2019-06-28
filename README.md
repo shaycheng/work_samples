@@ -1,8 +1,9 @@
 ## Pipelines for Processing Brain and Spinal Cord MRI data 
 * dMRI pipeline  https://github.com/shaycheng/work_samples/blob/master/tutorial_dMRI_pipeline/dMRI_pipeline.ipynb
  
- ![brain_bundle](/tutorial_dMRI_pipeline/cst_track.png)<!-- .element height="10%" width=10%" -->
- 
+ ![brain_bundle](/tutorial_dMRI_pipeline/cst_track.png)
+
+<img src="./tutorial_dMRI_pipeline/cst_track.png" width="50" height="50">
  
 * SpincalCord pipeline  https://github.com/shaycheng/work_samples/blob/master/tutorial_SpinalCord_pipeline/C23_pipeline.py
 
