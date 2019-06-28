@@ -1,14 +1,11 @@
 ## Pipelines for Processing Brain and Spinal Cord MRI data 
-* dMRI pipeline * https://github.com/shaycheng/work_samples/blob/master/tutorial_dMRI_pipeline/dMRI_pipeline.ipynb
+* dMRI Pipeline  https://github.com/shaycheng/work_samples/blob/master/tutorial_dMRI_pipeline/dMRI_pipeline.ipynb
+ 
  ![brain_bundle](/tutorial_dMRI_pipeline/cst_track.png)
  
  
-    The first one is to get matric values from specific region of interests in spinal cord C2-C3 sections from 
-    multimodal images as features for later on statistical analysis. It involves registraion, transformation,
-    crop and upsampling images and use deep learning technique to get total cord mask then use it to get image 
-    ROI values. Check out script and result: *****C23_pipeline.py, C23_output.png*****
     
-   
+* SpinalCord Pipeline 
 ![C23_output](C23_output.png)
 
 
