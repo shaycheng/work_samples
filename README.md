@@ -1,6 +1,6 @@
 ## Pipelines for Processing Brain and Spinal Cord MRI data 
-* Check the dMRI pipeline at *
- ![brain_bundle](/)
+* dMRI pipeline * https://github.com/shaycheng/work_samples/blob/master/tutorial_dMRI_pipeline/dMRI_pipeline.ipynb
+ ![brain_bundle](/tutorial_dMRI_pipeline/cst_track.png)
  
  
     The first one is to get matric values from specific region of interests in spinal cord C2-C3 sections from 
