@@ -3,7 +3,7 @@
  
  ![brain_bundle](/tutorial_dMRI_pipeline/cst_track.png)
 
-<img src="./tutorial_dMRI_pipeline/cst_track.png" width="50" height="50">
+<img src="./tutorial_dMRI_pipeline/cst_track.png" width="500" height="500">
  
 * SpincalCord pipeline  https://github.com/shaycheng/work_samples/blob/master/tutorial_SpinalCord_pipeline/C23_pipeline.py
 
