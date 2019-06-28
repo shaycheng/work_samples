@@ -2,8 +2,10 @@
 * dMRI pipeline  https://github.com/shaycheng/work_samples/blob/master/tutorial_dMRI_pipeline/dMRI_pipeline.ipynb
  
  ![brain_bundle](/tutorial_dMRI_pipeline/cst_track.png)
+ 
 
-<img src="./tutorial_dMRI_pipeline/cst_track.png" width="80%" height=80%">
+<img src="./tutorial_dMRI_pipeline/cst_track.png"  width="80%"  height=80%">
+                                                                           
  
 * SpincalCord pipeline  https://github.com/shaycheng/work_samples/blob/master/tutorial_SpinalCord_pipeline/C23_pipeline.py
 
