@@ -1,0 +1,1 @@
+ THis pipeline is to get matric values from specific region of interests in spinal cord C2-C3 sections from multimodal images as features for later on statistical analysis. It involves registraion, transformation, crop and upsampling images and use deep learning technique to get total cord mask then use it to get image ROI values.
