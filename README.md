@@ -4,7 +4,7 @@
  ![brain_bundle](/tutorial_dMRI_pipeline/cst_track.png)
  
 
-<img src="./tutorial_dMRI_pipeline/cst_track.png" width="75%" height=75%">
+<img src="./tutorial_dMRI_pipeline/cst_track.png" width='75%' height='75%'>
                                                                     
  
 * SpincalCord pipeline  https://github.com/shaycheng/work_samples/blob/master/tutorial_SpinalCord_pipeline/C23_pipeline.py
